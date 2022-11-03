@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "@editorjs/editorjs": "^2.25.0"
+  },
+  "homepage": "https://andersonfpcorrea.github.io/testes_editor.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
   }
 }
